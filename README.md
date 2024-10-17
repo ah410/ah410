@@ -36,5 +36,4 @@ I'm a passionate software engineer and cybersecurity enthusiast with a strong fo
 
 Feel free to connect with me!
 
-📫 **Let's connect**:  
-[LinkedIn](https://www.linkedin.com/in/ah410/)
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/ah410/)
