@@ -24,7 +24,7 @@ I'm a passionate software engineer and cybersecurity enthusiast with a strong fo
 - [**CompTIA Security+**](./security+_certificate.pdf)
 
 ## 📚 Certificates:
-- **CS50 - Harvard University**
+- [**CS50 - Harvard University**](https://courses.edx.org/certificates/c097711ef3c74cc9b7d400cea937edee)
 
 ## 🚀 Future Goals:
 - Contributing to **open-source** cybersecurity and software engineering projects.
