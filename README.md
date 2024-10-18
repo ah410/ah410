@@ -21,7 +21,7 @@ I'm a passionate software engineer and cybersecurity enthusiast with a strong fo
 **Software Engineering Intern at CVS Health** (May 2024 - August 2024)  
 
 ## 📚 Certifications:
-- **CompTIA Security+**
+- [**CompTIA Security+**](./security+_certificate.pdf)
 
 ## 📚 Certificates:
 - **CS50 - Harvard University**
