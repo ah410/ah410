@@ -1,7 +1,7 @@
 # Hi, I'm Ali Hamad! 👋
 
 🎓 **Computer Science & Cybersecurity Double Major**  
-📍 Slippery Rock University | Graduating in May 2025
+📍 Slippery Rock University | May 2025
 
 I'm a passionate software engineer and cybersecurity enthusiast with a strong foundation in web development, cybersecurity, and problem-solving.
 
@@ -14,8 +14,7 @@ I'm a passionate software engineer and cybersecurity enthusiast with a strong fo
 - **Tools**: Git, Google Cloud Platform, CircleCI, Vercel
 
 ## 🌱 Learning & Exploring:
-- Advanced **blockchain performance** and **parallel computing** topics for cpsc474's final project
-- Improving my skills in **React** with a focus on transitioning from Flask to React apps.
+- Data Engineering
 
 ## 💼 Internship Experience:
 **Software Engineering Intern at CVS Health** (May 2024 - August 2024)  
@@ -28,11 +27,10 @@ I'm a passionate software engineer and cybersecurity enthusiast with a strong fo
 
 ## 🚀 Future Goals:
 - Contributing to **open-source** cybersecurity and software engineering projects.
-- Securing a **Software Engineering role** post-graduation and making an impact at innovative companies.
 
 ## 🌟 Fun Facts:
-- I'm a **Community Assistant (CA)**, hosting fun events like **Pumpkin Painting & Carving** contests for my residents.
-- I love **running** and leading practice as the **Vice President** of the Rock Run Club at my University.
+- Collecting Pokemon Cards.
+- I love **running**.
 
 Feel free to connect with me!
 
